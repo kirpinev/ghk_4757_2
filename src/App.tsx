@@ -141,7 +141,7 @@ export const App = () => {
                   tag="p"
                   className={appSt.productText}
                 >
-                  Пенсионный вклад до 16,7%
+                  Высокие ставки по вкладу
                 </Typography.Text>
                 <Typography.Text
                   view="primary-medium"
